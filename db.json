@@ -1,1 +1,14 @@
-[{"email":"test@test.com","password":"2f3bc18c0d3e6b1b8a445075535d26e9","type":"adm"}]
+{
+  "login": [
+    { "username": "rabeea", "password": "rabe16" },
+    { "username": "alice", "password": "alice12" },
+    { "username": "elena", "password": "elena3" },
+    { "username": "damon", "password": "damon4" },
+    { "username": "stefan", "password": "stefan5" }
+    { "username": "bonnie", "password": "bonnie6" }
+    { "username": "caroline", "password": "caroline7" }
+    { "username": "matt", "password": "matt8" }
+    { "username": "jeremy", "password": "jeremy9" }
+    { "username": "jenna", "password": "jenna0" }
+  ]
+}
